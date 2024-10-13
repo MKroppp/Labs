@@ -4,3 +4,5 @@
 3. [LB-COORD](https://github.com/MKroppp/Coord)
 4. [LB-RADAR](https://github.com/MKroppp/LB-RADAR)
 5. [LB-GPS](https://github.com/MKroppp/LB-GPS)
+6. [LB-LORAN]()
+7. [LB-KALMAN](https://github.com/MKroppp/KALMAN)
